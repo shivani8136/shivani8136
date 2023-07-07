@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shivani.
 - 👀 I’m interested in Data Analytics and Web Development.
-- 💻 My current tech stack includes MS Excel, MySQL, R, Tableau, HTML, CSS.
+- 💻 My current tech stack includes MS Excel, Google Sheets, MySQL, R, Tableau, HTML, CSS, Javascript.
 - 🌱 I’m currently learning Python and Web Development.
 
 
