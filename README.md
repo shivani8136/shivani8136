@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shivani.
 - 👀 I’m interested in Data Analytics and Data Visualization.
-- 💻 My current tech stack includes MS Excel, Google Sheets, MySQL, Python, R, Tableau, PowerBi, Qliksense.
+- 💻 My current tech stack includes MS Excel, Google Sheets, MySQL, Python, R, Tableau, PowerBI, Qliksense.
 
 <!---
 - 👋 Hi, I’m Shivani.
