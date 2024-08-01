@@ -1,15 +1,21 @@
-- 👋 Hi, I’m Shivani.
-- 👀 I’m interested in Data Analytics and Data Visualization.
-- 💻 My current tech stack includes MS Excel, Google Sheets, MySQL, Python, R, Tableau, PowerBI, Qliksense.
+# 👋 Hello, I'm Shivani!
 
-<!---
-- 👋 Hi, I’m Shivani.
-- 👀 I’m interested in Data Analytics and Web Development.
-- 💻 My current tech stack includes MS Excel, Google Sheets, MySQL, R, Tableau, HTML, CSS, Javascript.
-- 🌱 I’m currently learning Python and Web Development.
+## 🚀 Currently pursuing Post graduate Program in Data Science and Engineering @ GLIM.
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-shivani8136/shivani8136 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📍 **India** 
+
+🔗 **LinkedIn:** [shivani8136](https://linkedin.com/in/shivani8136)  
+👨‍💻 **GitHub:** [shivani8136](https://github.com/shivani8136)
+
+### About Me 🌐
+I transform data into impactful insights and actionable solutions.
+
+### Tech Toolbox 🛠️
+- **Languages:** Python, MySQL, R
+- **Python Libraries:** Numpy, Pandas, Seaborn, Matplotlib, Scikit-Learn
+- **Tools:** Tableau, PowerBI, Microsoft Excel
+
+### Certifications 📜
+- **Coursera:** Google Data Analytics
+- **HackerRank:** SQL-Basic, SQL-Intermediate 
+
