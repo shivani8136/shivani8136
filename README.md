@@ -12,7 +12,7 @@ I transform data into impactful insights and actionable solutions.
 
 ### Tech Toolbox 🛠️
 - **Languages:** Python, MySQL, R
-- **Python Libraries:** Numpy, Pandas, Seaborn, Matplotlib, Scikit-Learn
+- **Python Libraries:** Numpy, Pandas, Seaborn, Matplotlib, Scikit-learn, SciPy
 - **Tools:** Tableau, PowerBI, Microsoft Excel
 
 ### Certifications 📜
