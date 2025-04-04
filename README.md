@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Shivani!
 
-## 🚀 Currently pursuing Post graduate Program in Data Science and Engineering @ GLIM.
+<!---## 🚀 Currently pursuing Post graduate Program in Data Science and Engineering @ GLIM.--->
 
 📍 **India** 
 
@@ -17,5 +17,5 @@ I transform data into impactful insights and actionable solutions.
 
 ### Certifications 📜
 - **Coursera:** Google Data Analytics
-- **HackerRank:** SQL-Basic, SQL-Intermediate 
+- **HackerRank:** SQL-Basic, SQL-Intermediate, SQL-Advanced
 
